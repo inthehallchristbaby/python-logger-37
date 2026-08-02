@@ -1,2 +1,4 @@
-# python-logger-37
+# Python Logger 37
+
 A simple logging class in Python.
+
